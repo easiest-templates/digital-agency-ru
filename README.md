@@ -1,6 +1,6 @@
 # Vortex Digital - Awwwards-style Landing Page
 
-![Preview](https://cdn.poehali.dev/templates/awwwards-site-ru/preview-ru.jpg)
+![Preview](https://cdn.poehali.dev/templates/digital-agency-ru/preview-ru.jpg)
 
 ## О шаблоне
 
@@ -37,7 +37,7 @@ npm run build
 
 ## Теги
 
-`landing` `agency` `awwwards` `dark-theme` `animations` `react` `vite` `tailwind` `russian`
+`digital-agency` `landing` `awwwards` `dark-theme` `animations` `react` `vite` `tailwind` `russian` `portfolio` `creative`
 
 ## Лицензия
 

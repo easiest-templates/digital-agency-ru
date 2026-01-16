@@ -10,17 +10,5 @@
 
 Шаблон идеально подходит для дизайн-студий, маркетинговых агентств и фрилансеров. Все тексты на русском языке — просто замените их на свои и добавьте свои проекты.
 
-## Установка
-
-```bash
-npm install
-npm run dev
-```
-
-## Технологии
-
-- React + TypeScript
-- Tailwind CSS
-- Vite
 
 `"tags": ["agency", "dark", "creative", "animations", "testimonials"]`
